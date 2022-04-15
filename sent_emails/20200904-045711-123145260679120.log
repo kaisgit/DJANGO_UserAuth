@@ -1,0 +1,26 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on localhost:8000
+From: webmaster@localhost
+To: email@mail.com
+Date: Fri, 04 Sep 2020 04:57:11 -0000
+Message-ID: 
+ <159919543111.1826.3113207768257859701@Ryzen3700X.hsd1.ca.comcast.net.>
+
+
+You're receiving this email because you requested a password reset for your user account at localhost:8000.
+
+Please go to the following page and choose a new password:
+
+http://localhost:8000/accounts/reset/Mg/5jm-7f93a25b79fe1fb30fcc/
+
+Your username, in case you've forgotten: ...
+
+Thanks for using our site!
+
+The localhost:8000 team
+
+
+
+-------------------------------------------------------------------------------
